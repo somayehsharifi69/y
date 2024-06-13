@@ -15,4 +15,4 @@ To use the `f` function:
 3. Open a terminal or command prompt and navigate to the directory containing the `main.py` file.
 
 4. Run the script by executing the following command:
-```pyton main.py```
+```pyton m.py```
